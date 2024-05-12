@@ -1,6 +1,12 @@
 :root {
-    --primary-color: #ff5733; --secondary-color: #33aaff; }
-
+    --primary-color: #ff5733;
+    --secondary-color: #33aaff;
+  }
+  
+.card {
+    background-color: var(--primary-color);
+  }
+  
 .purple{
     background: #b34db2;
 }
